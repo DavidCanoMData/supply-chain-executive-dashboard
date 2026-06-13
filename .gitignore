@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.env
+venv/
+env/
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Office temporales
+~$*.xlsx
+~$*.xlsb
+~$*.pbix
+*.tmp
+
+# Jupyter
+.jupyter/
