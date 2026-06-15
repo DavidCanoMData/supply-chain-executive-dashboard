@@ -6,6 +6,10 @@ Operational analytics solution designed to monitor delivery effectiveness, SLA c
 
 Built using Python, Power BI and a dataset of 41,967 shipments, the project identifies operational bottlenecks affecting service levels, customer experience and transportation efficiency.
 
+### Dashboard Main
+![Dashboard Main](images/01-dashboard-overview.png)
+
+
 ---
 
 ## Business Problem
@@ -54,6 +58,9 @@ Data preparation included:
 * Field renaming
 * Business rule validation
 
+### Dashboard by type of operation
+![Dashboard by type of operation](images/02-dashboard-filtros.png)
+
 ---
 
 ## KPIs
@@ -87,6 +94,9 @@ Significant effectiveness differences exist between operational regions, creatin
 ### Reactive vs Predictive Operations
 
 The analysis revealed that delayed vehicle arrivals are often addressed after operational impact occurs, reducing the ability to recover service levels.
+
+### Dashboard fulfillment
+![Dashboard fulfillment](images/03-analisis-entregas.png)
 
 ---
 
